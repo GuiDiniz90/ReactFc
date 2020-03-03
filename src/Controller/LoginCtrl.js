@@ -3,6 +3,7 @@ import { render } from '@testing-library/react';
 import axios from 'axios';
 import GoogleLogin from 'react-google-login';
 
+//teste commit
 
 class Login extends React.Component {
     constructor(props) {
